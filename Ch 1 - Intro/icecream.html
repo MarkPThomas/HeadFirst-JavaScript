@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ice Cream</title>
+    <script>
+        var scoops = 5;
+        while (scoops >= 0)
+        {
+            scoops = serveScoops(scoops);
+        }
+
+
+        function serveScoops(scoopsLeft)
+        {
+            if (scoopsLeft > 0)
+            {
+                document.write("Another scoop!<br>");
+                return scoopsLeft - 1;
+            }
+            else
+            {
+                document.write("Life without ice cream isn't the same.");
+            }
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
