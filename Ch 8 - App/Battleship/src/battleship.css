@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+/*"board" div is positioned 'relative', which means that everything nested inside can be positioned relative to it*/
+div#board {
+    position: relative;
+    width: 1024px;
+    height: 863px;
+    margin: auto;
+    background: url("../images/board.jpg") no-repeat;
+}
+
+div#messageArea{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: rgb(83, 175, 19);
+}
+
+table{
+    position: absolute;;
+    top: 98px;
+    left: 173px;
+    border-spacing: 0px;
+}
+
+td{
+    width: 94px;
+    height: 94px;
+}
+
+form{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 15px;
+    background-color: rgb(83, 175, 19);
+    font-size: 1em;
+}
+
+.hit{
+    background: url("../images/ship.png") no-repeat center;
+}
+
+.miss{
+    background: url("../images/miss.png") no-repeat center;
+}
