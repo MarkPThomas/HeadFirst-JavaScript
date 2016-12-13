@@ -2,45 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80361cf-5301-45b1-8860-843b920e1bab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/five.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/fiveblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/four.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/fourblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/one.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/oneblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/three.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/threeblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/two.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/twoblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/zero.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/images/zeroblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/five.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/fiveblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/four.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/fourblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/one.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/oneblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/three.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/threeblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/two.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/twoblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/zero.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/images/zeroblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/1 - Event/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/src/imageGuess.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/src/imageGuess.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/5 - Image Guess (Reblur on Timer)/src/imageGuess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,50 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="imageGuess.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="imageGuess.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#41#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#41#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="timers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc;n#timerHandler#0" expanded="false" />
               </folding>
@@ -141,21 +62,65 @@
       <file leaf-file-name="imageGuess.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="238">
               <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resize.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resize.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="airlines.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cola.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cola.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="airlines.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -238,6 +203,10 @@
         <option value="$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.js" />
         <option value="$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.html" />
         <option value="$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.js" />
+        <option value="$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.html" />
+        <option value="$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.html" />
+        <option value="$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.js" />
+        <option value="$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.js" />
       </list>
     </option>
   </component>
@@ -271,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,9 +253,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirst-JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirst-JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 10 - Liberated Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2 - Cola" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirst-JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirst-JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 10 - Liberated Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1 - Airlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -311,13 +316,7 @@
       <recent name="C:\Users\Mark\Documents\GitHub\JavaScript\HeadFirst-JavaScript\Ch 5 - Objects" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.resize.html">
-    <configuration default="false" name="map.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 9 - Events/3 - Map/src/map.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="timers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 9 - Events/3 - Timers/timers.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.cola.html">
     <configuration default="false" name="imageGuess.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 9 - Events/5 - Image Guess/src/imageGuess.html">
       <method />
     </configuration>
@@ -325,6 +324,12 @@
       <method />
     </configuration>
     <configuration default="false" name="resize.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 9 - Events/7 - Window Resize/resize.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="airlines.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 10 - Liberated Functions/1 - Airlines/airlines.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="cola.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HeadFirst-JavaScript/Ch 10 - Liberated Functions/2 - Cola/cola.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -387,19 +392,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.map.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timers.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (2)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.resize.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (2)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.resize.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.airlines.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.cola.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.resize.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (2)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.timers.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.map.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.cola.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.airlines.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.resize.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (2)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.imageGuess.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +424,8 @@
       <workItem from="1481044795792" duration="5050000" />
       <workItem from="1481257597381" duration="2864000" />
       <workItem from="1481416942018" duration="35862000" />
-      <workItem from="1481562839447" duration="1243000" />
+      <workItem from="1481562839447" duration="1867000" />
+      <workItem from="1481597100522" duration="4822000" />
     </task>
     <task id="LOCAL-00001" summary="Completed ch. 5 &amp; 6">
       <created>1481429075662</created>
@@ -435,17 +441,24 @@
       <option name="project" value="LOCAL" />
       <updated>1481525524227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Ch. 9">
+      <created>1481564110586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481564110586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45019000" />
+    <option name="totallyTimeSpent" value="50465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24330357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24330357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -473,7 +486,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed ch. 5 &amp; 6" />
     <MESSAGE value="Completed Ch. 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Ch. 8" />
+    <MESSAGE value="Completed Ch. 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Ch. 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,42 +496,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 9 - Events/2 - Image Guess/src/imageGuess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 9 - Events/3 - Map/src/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -680,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
           <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/Ch 9 - Events/4 - Timers/timers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc;n#timerHandler#0" expanded="false" />
           </folding>
@@ -816,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 9 - Events/6 - Image Guess (Mouseover)/src/imageGuess.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="238">
           <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding />
         </state>
@@ -833,7 +805,43 @@
     <entry file="file://$PROJECT_DIR$/Ch 9 - Events/7 - Window Resize/resize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/2 - Cola/cola.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10 - Liberated Functions/1 - Airlines/airlines.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
