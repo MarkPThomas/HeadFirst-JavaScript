@@ -25,7 +25,7 @@ function Dog(name, breed, weight){
     this.weight = weight;
     this.bark = function(){
         if(this.weight > 25) {
-            alert(this.name + " says Wood!");
+            alert(this.name + " says Woof!");
         } else{
             alert(this.name + " says Yip!");
         }
